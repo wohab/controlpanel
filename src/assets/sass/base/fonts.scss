@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "janna";
+    src: local('janna'), url('../fonts/janna.woff') format("woff");
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "janna";
+    src: local('janna'), url('../fonts/janna-bold.woff') format("woff");
+    font-weight: bold;
+}
+
+$family-headings: "janna", "Helvetica Neue", "Segoe UI", sans-serif;
+$family-content: -apple-system,BlinkMacSystemFont, "Helvetica Neue","Geeze pro","Segoe UI", Roboto, Oxygen-Sans, Ubuntu, sans-serif;
