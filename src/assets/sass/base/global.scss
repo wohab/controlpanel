@@ -10,6 +10,7 @@ html {
 body {
     font-size: $font-base;
     line-height: $line-height;
-    color: $color-background;
+    color: $color-content;
     background-color: $color-background;
+    font-family: $family-content;
 }
